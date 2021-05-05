@@ -1,2 +1,7 @@
 *.exe
-main
+bin/chessviz
+*.gch
+*.a
+*.o
+*.d
+
