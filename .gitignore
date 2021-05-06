@@ -1,7 +1,0 @@
-*.exe
-bin/chessviz
-*.gch
-*.a
-*.o
-*.d
-
