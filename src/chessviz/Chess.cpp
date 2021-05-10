@@ -6,7 +6,8 @@
 using namespace std;
 
 
-int main(){
+int main()
+{
   char Chess[9][9] =
   {{'8','R','N','B','Q','K','B','N','R'},
    {'7','P','P','P','P','P','P','P','P'},
@@ -18,7 +19,8 @@ int main(){
    {'1','R','N','B','Q','K','B','N','R'},
    {' ','a','b','c','d','e','f','g','h'}};
    print(Chess);
-   while(1){
+  while (1)
+   {
      game(Chess);
    }
    return 0;
